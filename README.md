@@ -48,5 +48,3 @@ I plan to learn **C++** for:
 - Telegram: **trov3r**
 
 ![end](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,100:FB923C)
-
-# ⭐️ Always learning something new.

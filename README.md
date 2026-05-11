@@ -48,4 +48,6 @@ I plan to learn **C++** for:
 
 ---
 
+![end](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:F97316,100:FB923C)
+
 ⭐️ Always learning something new.

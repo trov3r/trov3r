@@ -1,15 +1,15 @@
-# Hi, I'm trov3r 👋
+# My portfolio 💼
 
 ![trov3r](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=trov3r&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=F2F2F2&color=0:F97316,100:FB923C)
 
 ## 🚀 About Me
 
-I’m a beginner developer with around 1 year of experience in Telegram bot development using **pyTelegramBotAPI**.
+I’m a beginner developer with over a year of experience across various projects, ranging from small-scale tasks to larger developments. My strongest expertise is in working with the **pyTelegramBotAPI**.
 
 I also have some experience with:
-- Solar 2D
-- OpenGL ES 2.0
-- CCode
+- Flask (web framework)
+- JavaScript (multi-paradigm language)
+- CCode (mobile platform)
 
 ## 🛠 Tech Stack
 
@@ -30,16 +30,16 @@ I also have some experience with:
 ## 📚 Future Goals
 
 I plan to learn **C++** for:
-- Game modding
 - Creating my own games
+- Game modding
 - Low-level development
 
 ## 💡 Interests
 
 - Telegram bot development
-- Game modding
-- Game development
 - Graphics programming
+- Game development
+- Game modding
 - Automation
 
 ## 📫 Contact

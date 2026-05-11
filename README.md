@@ -1,4 +1,4 @@
-# My portfolio 💼
+# 💼 My portfolio
 
 ![trov3r](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=trov3r&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=F2F2F2&color=0:F97316,100:FB923C)
 
@@ -45,6 +45,7 @@ I plan to learn **C++** for:
 ## 📫 Contact
 
 - GitHub: **trov3r**
+- Telegram: **trov3r**
 
 ![end](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,100:FB923C)
 

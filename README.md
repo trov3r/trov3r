@@ -1,5 +1,7 @@
 # Hi, I'm trov3r 👋
 
+![trov3r](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=trov3r&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=F2F2F2&color=0:F97316,100:FB923C)
+
 ## 🚀 About Me
 
 I’m a beginner developer with around 1 year of experience in Telegram bot development using **pyTelegramBotAPI**.
